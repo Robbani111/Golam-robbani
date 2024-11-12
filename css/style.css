@@ -14,14 +14,15 @@ body{
 }
 .half-width img{
   width:100%;
+ 
 }
 .top-banner{
- 
-  background-image:url(image/top-banner.png);
+  background-image: url("images/tp-banner.png");
   background-repeat:no-repeat;
 }
 section{
   height:500px;
+ 
 }
 .link-button{
   text-decoration:none;
@@ -30,4 +31,16 @@ section{
   color: white;
   border-radius:5px;
   font-weight:700;
+}
+.heading{
+  font-size:40px;
+}
+.body-center{
+  margin-left:8px;
+  padding-left:2px;
+  width:40%;
+  
+}
+.body-center img{
+  width:100%;
 }
