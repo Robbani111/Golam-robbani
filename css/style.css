@@ -7,10 +7,10 @@ body{
   font-size:50px;
 }
 .half-width{
-  width:44%;
+  width:46%;
   float:left;
-  margin-left:2.2%;
-  padding-left:2.2%;
+  margin-left:2%;
+  padding-left:2%;
 }
 .half-width img{
   width:100%;
@@ -33,12 +33,27 @@ section{
   font-size:40px;
 }
 .half-width1{
-  width:45%;
+  width:46%;
   float:left;
-  margin-left:2.2%;
-  padding-left:2.2%;
+  margin-left:2%;
+  padding-left:2%;
   
 }
 .half-width1 img{
   width:100%;
+}
+.experience{
+   box-shadow:10px 10px 40px gray ;
+   height:80%;
+   
+}
+#baby{
+  border-left:7px solid;
+  border-image:linear-gradient(180deg,lightSalmon, tomato);
+  border-image-slice:1;
+}
+#full{
+  border-left:7px solid;
+  border-image:linear-gradient(180deg, blue, cyan);
+  border-image-slice:1;
 }
