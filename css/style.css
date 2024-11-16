@@ -35,14 +35,11 @@ section{
 .half-width1{
   width:40%;
   float:left;
-  margin-left:10%;
+  margin-left:5%;
   padding-left:2%;
   
 }
 .half-width1 img{
   width:100%;
 }
-.dream{
-  height:500px;
 
-}
