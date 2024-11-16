@@ -7,10 +7,10 @@ body{
   font-size:50px;
 }
 .half-width{
-  width:40%;
+  width:45%;
   float:left;
-  margin-left:8%;
-  padding-left:2%;
+  margin-left:2.2%;
+  padding-left:2.2%;
 }
 .half-width img{
   width:100%;
@@ -30,13 +30,13 @@ section{
   font-weight:700;
 }
 .heading{
-  font-size:40px;
+  font-size:45px;
 }
 .half-width1{
   width:40%;
   float:left;
-  margin-left:5%;
-  padding-left:2%;
+  margin-left:2.2%;
+  padding-left:2.2%;
   
 }
 .half-width1 img{
